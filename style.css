@@ -10,6 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    margin: 0px;
 }
 
 .container {
@@ -26,6 +27,8 @@ body {
     /* grid-template: 150px 300px / 300px 300px;
     grid-auto-rows: 300px; */
     grid-template: 1fr 1fr / 1fr 1fr;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
 .container > *{
