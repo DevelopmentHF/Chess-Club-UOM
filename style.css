@@ -35,6 +35,7 @@ body {
 
 .name {
     text-align: center;
+    margin: 0;
 }
 
 .name > h4 {
@@ -43,7 +44,7 @@ body {
 }
 
 .name > h1 {
-    font-size: 6vmin;
+    font-size: 5vmin;
 }
 
 #dot {
@@ -92,4 +93,3 @@ nav > a {
 .slide:hover {
     transform: translate(-25px);
 }
-
