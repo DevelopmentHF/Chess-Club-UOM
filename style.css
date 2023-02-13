@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: #1e272e;
+    /* background-color: #1e272e; */
+    background: linear-gradient(195deg, #d2dae2 60%, #485460 60%);
     font-family: system-ui;
     color: rgb(236, 232, 232);
 }
@@ -90,6 +91,7 @@ nav {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: flex-end;
+    background-color: #1e272e;
 }
 
 nav > a {
