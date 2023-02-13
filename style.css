@@ -45,6 +45,7 @@ body {
 
 .name > h1 {
     font-size: 5vmin;
+    white-space: nowrap;
 }
 
 #dot {
