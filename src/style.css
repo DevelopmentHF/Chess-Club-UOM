@@ -5,10 +5,6 @@ body {
     color: rgb(236, 232, 232);
 }
 
-#logo {
-    position: absolute;
-}
-
 .wrapper {
     display: flex;
     align-items: center;
@@ -60,6 +56,15 @@ body {
     color: #1e272e;
 }
 
+#logobox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+}
+
 .grow { 
     transition: all .2s ease-in-out; 
 }
@@ -88,5 +93,6 @@ nav > a {
 }
 
 .slide:hover {
-    transform: translate(-5px);
+    transform: translate(-25px);
 }
+
