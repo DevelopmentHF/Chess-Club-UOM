@@ -39,11 +39,11 @@ body {
 
 .name > h4 {
     color: #808e9b;
-    font-size: 2rem;
+    font-size: 2vmax;
 }
 
 .name > h1 {
-    font-size: 3rem;
+    font-size: 3vmax;
 }
 
 #dot {
@@ -85,7 +85,7 @@ nav > a {
     color: white;
     border-width: 0px;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 2vmax;
 }
 
 .slide {
