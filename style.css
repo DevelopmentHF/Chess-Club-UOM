@@ -39,6 +39,7 @@ body {
 .name {
     text-align: center;
     margin: 0;
+    background-color: #1e272e;
 }
 
 .name > h4 {
@@ -55,6 +56,10 @@ body {
     color: #f53b57;
 }
 
+#club {
+    text-decoration:underline;
+    text-decoration-color: #f53b57;
+}
 .alt {
     margin: 0px;
     background-color: #d2dae2;
