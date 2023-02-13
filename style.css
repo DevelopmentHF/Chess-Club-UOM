@@ -64,6 +64,11 @@ body {
     justify-content: center;
 }
 
+#logo {
+    width: 60%;
+    height: auto;
+}
+
 .grow { 
     transition: all .2s ease-in-out; 
 }
