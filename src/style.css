@@ -39,11 +39,11 @@ body {
 
 .name > h4 {
     color: #808e9b;
-    font-size: 2vmax;
+    font-size: 4vmin;
 }
 
 .name > h1 {
-    font-size: 3vmax;
+    font-size: 6vmin;
 }
 
 #dot {
@@ -60,9 +60,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-#logo {
 }
 
 .grow { 
@@ -85,7 +82,7 @@ nav > a {
     color: white;
     border-width: 0px;
     font-weight: bold;
-    font-size: 2vmax;
+    font-size: 4vmin;
 }
 
 .slide {
